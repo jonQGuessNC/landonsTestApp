@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/landonsWebsite/static/css/main.d5150aeb.css",
-    "main.js": "/landonsWebsite/static/js/main.7eef5d94.js",
-    "static/js/787.16fed500.chunk.js": "/landonsWebsite/static/js/787.16fed500.chunk.js",
-    "index.html": "/landonsWebsite/index.html",
-    "main.d5150aeb.css.map": "/landonsWebsite/static/css/main.d5150aeb.css.map",
-    "main.7eef5d94.js.map": "/landonsWebsite/static/js/main.7eef5d94.js.map",
-    "787.16fed500.chunk.js.map": "/landonsWebsite/static/js/787.16fed500.chunk.js.map"
+    "main.css": "/landonsTestApp/static/css/main.d5150aeb.css",
+    "main.js": "/landonsTestApp/static/js/main.d2314c47.js",
+    "static/js/787.16fed500.chunk.js": "/landonsTestApp/static/js/787.16fed500.chunk.js",
+    "index.html": "/landonsTestApp/index.html",
+    "main.d5150aeb.css.map": "/landonsTestApp/static/css/main.d5150aeb.css.map",
+    "main.d2314c47.js.map": "/landonsTestApp/static/js/main.d2314c47.js.map",
+    "787.16fed500.chunk.js.map": "/landonsTestApp/static/js/787.16fed500.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5150aeb.css",
-    "static/js/main.7eef5d94.js"
+    "static/js/main.d2314c47.js"
   ]
 }
